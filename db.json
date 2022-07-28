@@ -1,0 +1,65 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "title": "Jeep wrangler",
+        "image": "./images/car1 Jeep.jpg",
+        "price": 15000,
+        "company": "Jeep",
+        "info": "This is an offroad vehicle that is exceptional versatile.",
+        "inCart": "false",
+        "count": 1
+      },
+      {
+        "id": 2,
+        "title": "Merceds benz",
+        "image": "./images/car2 Mercedes benz.jpg",
+        "price": 20000,
+        "company": "Mercedes",
+        "info": "It is a world class car for luxury, safety, service and great performance.",
+        "inCart": "false",
+        "count": 1
+      },
+      {
+        "id": 3,
+        "title": "Double cabin",
+        "image": "./images/car3 Double cabin.jpg",
+        "price": 25000,
+        "company": "Ford",
+        "info": "It is good for riding to work sites, pulling boats and getting muddy offroad.",
+        "inCart": "false",
+        "count": 1
+      },
+      {
+        "id": 4,
+        "title": "Audi",
+        "image": "./images/car4 Audi.jpg",
+        "price": 12000,
+        "company": "Audi",
+        "info": "It is a high quality and reliable car with great performance.",
+        "inCart": "false",
+        "count": 1
+      },
+      {
+        "id": 5,
+        "title": "CX5",
+        "image": "./images/car5 CX5.jpg",
+        "price": 22000,
+        "company": "Mazda",
+        "info": "It has high quality interior, sharp handling and a competitive price.",
+        "inCart": "false",
+        "count": 1
+      },
+      {
+        "id": 6,
+        "title": "Discovery",
+        "image": "./images/car6 Discovery.jpg",
+        "price": 25000,
+        "company": "Land rover",
+        "info": "It is incredible four-wheel-drive vehicle with comfortble drive, great view, luxurious and safety features.",
+        "inCart": "false",
+        "count": 1
+        
+      }
+    ]
+  }
