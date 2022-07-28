@@ -3,7 +3,7 @@
       {
         "id": 1,
         "title": "Jeep wrangler",
-        "image": "./images/car1 Jeep.jpg",
+        "image": "./images/car1Jeep.jpg",
         "price": 15000,
         "company": "Jeep",
         "info": "This is an offroad vehicle that is exceptional versatile.",
@@ -13,7 +13,7 @@
       {
         "id": 2,
         "title": "Merceds benz",
-        "image": "./images/car2 Mercedes benz.jpg",
+        "image": "./images/car2Mercedes benz.jpg",
         "price": 20000,
         "company": "Mercedes",
         "info": "It is a world class car for luxury, safety, service and great performance.",
