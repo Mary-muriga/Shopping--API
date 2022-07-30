@@ -7,8 +7,8 @@
         "price": 15000,
         "company": "Jeep",
         "info": "This is an offroad vehicle that is exceptional versatile.",
-        "inCart": "false",
-        "count": 1
+        
+        
       },
       {
         "id": 2,
@@ -17,8 +17,7 @@
         "price": 20000,
         "company": "Mercedes",
         "info": "It is a world class car for luxury, safety, service and great performance.",
-        "inCart": "false",
-        "count": 1
+        
       },
       {
         "id": 3,
@@ -27,8 +26,7 @@
         "price": 25000,
         "company": "Ford",
         "info": "It is good for riding to work sites, pulling boats and getting muddy offroad.",
-        "inCart": "false",
-        "count": 1
+        
       },
       {
         "id": 4,
@@ -37,8 +35,7 @@
         "price": 12000,
         "company": "Audi",
         "info": "It is a high quality and reliable car with great performance.",
-        "inCart": "false",
-        "count": 1
+        
       },
       {
         "id": 5,
@@ -47,8 +44,7 @@
         "price": 22000,
         "company": "Mazda",
         "info": "It has high quality interior, sharp handling and a competitive price.",
-        "inCart": "false",
-        "count": 1
+        
       },
       {
         "id": 6,
@@ -57,9 +53,7 @@
         "price": 25000,
         "company": "Land rover",
         "info": "It is incredible four-wheel-drive vehicle with comfortble drive, great view, luxurious and safety features.",
-        "inCart": "false",
-        "count": 1
-        
+       
       }
     ]
   }
